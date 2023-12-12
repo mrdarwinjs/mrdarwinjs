@@ -14,7 +14,7 @@
 - 📫 How to reach me **discord --> novadarwin6462**
 
 
-<img src="https://i.imgur.com/0Hev97A.png" alt="project-screenshot" width="600" height="300/">
+<img src="https://i.imgur.com/0Hev97A.png" alt="project-screenshot" width="400" height="300/">
 
 
 
