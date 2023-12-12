@@ -13,10 +13,10 @@
 
 - 📫 How to reach me **discord --> novadarwin6462**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<img src="https://i.imgur.com/0Hev97A.png" alt="project-screenshot" width="800" height="400/">
+
+<img src="https://i.imgur.com/0Hev97A.png" alt="project-screenshot" width="800" height="300/">
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
