@@ -29,7 +29,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/tWR.gif"  />
+  <img height="500" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="100" src="https://media4.giphy.com/media/8FxaYF4jKVytcumRS8/giphy.gif"  />
 </div>
 
 ###
