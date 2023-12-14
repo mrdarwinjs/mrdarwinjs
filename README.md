@@ -10,18 +10,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://youtu.be/ANDQoEl2StM?si=TZGUCVKAhY7FKGbW" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=favorite%20song&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <a href="novadarwin6462" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
 </div>
 
 ###
@@ -33,6 +25,12 @@
 ###
 
 <h1 align="center">Hey! Welcome to my profile 😀</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/tWR.gif"  />
+</div>
 
 ###
 
@@ -62,6 +60,12 @@
 
 ###
 
+<div align="center">
+  <img height="100" src="https://media.tenor.com/1Qah7X4zx3oAAAAi/neon-cat-rainbow.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h1 align="center">Abaut me</h1>
@@ -82,9 +86,32 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrdarwinjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdarwinjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://youtu.be/ANDQoEl2StM?si=TZGUCVKAhY7FKGbW" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=favorite%20song&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/3b/cc/46/3bcc46438454fe74e19c6876d9aabd4a.gif"  />
 </div>
 
 ###
